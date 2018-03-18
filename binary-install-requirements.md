@@ -1,3 +1,11 @@
+---
+layout: default
+title: 'HANA Express Requirements'
+comments: true
+# other options
+---
+
+
 Install SAP HANA 2.0, express edition on Red Hat Enterprise Linux (Server + Applications)
 
 SAP HANA, express edition 2.0 SPS02 revision 21 and Red Hat Enterprise Linux 7.2 for x86-64 as VMware Virtual Machine
