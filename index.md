@@ -20,7 +20,7 @@ The installation selected is for installing HANA EXPRESS EDITION 2.0 on HANA 2.0
 
 2- [Linux Prep]( {{ "/hanaexpress/binary-install-linux-prep.html", relative_url }} )
 
-3- [Download Software]( {{ "/hanaexpress/binary-install-downloads.html", relative_url }} )
+3- [Download Software]( {{ "/hanaexpress/binary-install-download.html", relative_url }} )
 
 4- [Install Components]( {{ "/hanaexpress/binary-install-components.html", relative_url }} )
 
