@@ -8,19 +8,19 @@ The instructions have been summarized and some steps removed as not necessary.
 
 ### instructions
 
-[Step 1 - Install Requirements]({{ "/binary-install-requirements.html", relative_url }})
+- [Step 1 - Install Requirements]({{ "/binary-install-requirements.html", relative_url }})
 
-[Step 2 - Linux Prep]({{ "/binary-install-linux-prep.html", relative_url }})
+- [Step 2 - Linux Prep]({{ "/binary-install-linux-prep.html", relative_url }})
 
-[Step 3 - Download Software]({{ "/binary-install-downloads.html", relative_url }})
+- [Step 3 - Download Software]({{ "/binary-install-downloads.html", relative_url }})
 
-[Step 4 - Install Components]({{ "/binary-install-components.html", relative_url }})
+- [Step 4 - Install Components]({{ "/binary-install-components.html", relative_url }})
 
-[Step 5 - User Admin ID's]({{ "/binary-install-userIDadmin.html" relative_url }})
+- [Step 5 - User Admin ID's]({{ "/binary-install-userIDadmin.html" relative_url }})
 
-[Step 6 - Test Installation]({{ "/binary-install-test.html", relative_url }})]
+- [Step 6 - Test Installation]({{ "/binary-install-test.html", relative_url }})]
 
-[Step 7 - Administration]({{ "/binary-install-admin.html", relative_url }})]
+- [Step 7 - Administration]({{ "/binary-install-admin.html", relative_url }})]
 
 
 ### Notes
