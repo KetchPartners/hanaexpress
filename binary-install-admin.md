@@ -1,3 +1,11 @@
+---
+layout: default
+title: 'HANA Express Administration'
+comments: true
+# other options
+---
+
+
 ## XSA Administration
 
 ### Backup
