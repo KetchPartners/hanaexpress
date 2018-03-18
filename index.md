@@ -5,7 +5,6 @@ comments: true
 # other options
 ---
 
-
 # SAP HANA EXPRESS
 ## ON-PREMISE RED HAT Binary Install Method
 

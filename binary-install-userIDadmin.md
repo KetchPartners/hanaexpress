@@ -5,7 +5,6 @@ comments: true
 # other options
 ---
 
-
 ## Deactivate the SYSTEM user:
 
 The SYSTEM user is the database “super-user” and is not intended for day-to-day activities in production systems.
