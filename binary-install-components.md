@@ -1,3 +1,10 @@
+---
+layout: default
+title: 'HANA Express Components'
+comments: true
+# other options
+---
+
 ## Install the Server and Application Package
 
 ### Install HANA Server and Database
