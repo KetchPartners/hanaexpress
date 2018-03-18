@@ -15,19 +15,19 @@ The instructions have been summarized and some steps removed as not necessary.
 
 ### instructions
 
-1- [Install Requirements]( {{ "/binary-install-requirements.html", relative_url }} )
+1- [Install Requirements]( {{ "/hanaexpress/binary-install-requirements.html", relative_url }} )
 
-2- [Linux Prep]( {{ "/binary-install-linux-prep.html", relative_url }} )
+2- [Linux Prep]( {{ "/hanaexpress/binary-install-linux-prep.html", relative_url }} )
 
-3- [Download Software]( {{ "/binary-install-downloads.html", relative_url }} )
+3- [Download Software]( {{ "/hanaexpress/binary-install-downloads.html", relative_url }} )
 
-4- [Install Components]( {{ "/binary-install-components.html", relative_url }} )
+4- [Install Components]( {{ "/hanaexpress/binary-install-components.html", relative_url }} )
 
-5- [User Admin ID's]( {{ "/binary-install-userIDadmin.html" relative_url }} )
+5- [User Admin ID's]( {{ "/hanaexpress/binary-install-userIDadmin.html" relative_url }} )
 
-6- [Testing]( {{ "/binary-install-test.html", relative_url }} )
+6- [Testing]( {{ "/hanaexpress/binary-install-test.html", relative_url }} )
 
-7- [Administration]( {{ "/binary-install-admin.html", relative_url }} )
+7- [Administration]( {{ "/hanaexpress/binary-install-admin.html", relative_url }} )
 
 
 ### Notes
