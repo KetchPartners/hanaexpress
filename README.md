@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# SAP HANA EXPRESS
+## ON-PREMISE RED HAT Binary Install Method
 
-You can use the [editor on GitHub](https://github.com/davebeach/hana-express/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### SAP Reference
+The following tutorial for installing HANA Express for RED HAT on premise was used -[SAP Tutorial Install HANA Express Red Hat Binary](https://www.sap.com/developer/tutorials/hxe-rhel-server-apps-local.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The instructions have been summarized and some steps removed as not necessary.
 
-### Markdown
+### instructions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1- [Install Requirements]( {{ "/binary-install-requirements.html", relative_url }} )
 
-```markdown
-Syntax highlighted code block
+2- [Linux Prep]( {{ "/binary-install-linux-prep.html", relative_url }} )
 
-# Header 1
-## Header 2
-### Header 3
+3- [Download Software]( {{ "/binary-install-downloads.html", relative_url }} )
 
-- Bulleted
-- List
+4- [Install Components]( {{ "/binary-install-components.html", relative_url }} )
 
-1. Numbered
-2. List
+5- [User Admin ID's]( {{ "/binary-install-userIDadmin.html" relative_url }} )
 
-**Bold** and _Italic_ and `Code` text
+6- [Testing]( {{ "/binary-install-test.html", relative_url }} )
 
-[Link](url) and ![Image](src)
-```
+7- [Administration]( {{ "/binary-install-admin.html", relative_url }} )
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Notes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davebeach/hana-express/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1.  Remember to record all user names and passwords created.
+2.  Store all logs for future reference.  This is very important during installation.
+3.  Issues - stop and do not continue until issue is discussed.
