@@ -1,3 +1,10 @@
+---
+layout: default
+title: 'HANA Express Testing Install'
+comments: true
+# other options
+---
+
 ## Testing The installation
 
 ### Running Processes

@@ -2,6 +2,7 @@ _site/
 .sass-cache/
 .jekyll-metadata
 
-hana-express.sublime-project
-hana-express.sublime-workspace
+hanaexpress.sublime-project
+hanaexpress.sublime-workspace
 
+.DS_Store

@@ -1,3 +1,10 @@
+---
+layout: default
+title: 'Hana Express Linux Prep'
+comments: true
+# other options
+---
+
 
 LINUX system preparation
 

@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: 'HANA Express Downloads'
+comments: true
+# other options
+---
 
 Register the SAP HANA Express Install:
 [Register Here](https://www.sap.com/developer/topics/sap-hana-express.html)
